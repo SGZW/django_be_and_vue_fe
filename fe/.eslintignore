@@ -1,0 +1,8 @@
+**/node_modules/*
+**/bower_components/*
+static/*
+output/*
+test/*
+
+build/*.js
+config/*.js
